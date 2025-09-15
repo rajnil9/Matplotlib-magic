@@ -21,11 +21,22 @@ This will serve as my **personal reference library** of examples, experiments, a
 
 Here are some of the plots I’ve created while learning Matplotlib:  
 
+ ### 🔹 Example 1: Scatter Plot  
 <p>
-  <img src="images/stackplot.png" width="500"/>
-  <img src="images/scatterplot.png" width="500"/>
+  <img src="images/scatterplot.png" width="600"/>
+  </p>
+  
+### 🔹 Example 2: Stack Plot
+ <p>
+  <img src="images/stackplot.png" width="600"/>
 </p>
 
-<p align="center">
-  <img src="images/styled_plot.png" width="400"/>
+### 🔹 Example 3: Time Series Plot
+<p>
+  <img src="images/timeseries.png" width="600"/>
+</p>
+
+### 🔹 Example 4: Pie Plot
+<p>
+  <img src="images/pie2.png" width="600"/>
 </p>
