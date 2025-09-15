@@ -16,3 +16,16 @@ This will serve as my **personal reference library** of examples, experiments, a
 
 ---
 
+
+## 🖼️ Gallery of Practice Plots  
+
+Here are some of the plots I’ve created while learning Matplotlib:  
+
+<p>
+  <img src="images/stackplot.png" width="500"/>
+  <img src="images/scatterplot.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="images/styled_plot.png" width="400"/>
+</p>
